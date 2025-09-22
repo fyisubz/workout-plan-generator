@@ -112,10 +112,7 @@ numpy>=1.24.0
 3. Examine **Nutrition Plan** with meal suggestions and macros
 4. Use **Export to PDF** to save your complete fitness plan
 
-### Advanced Features
-- **Plan Regeneration**: Create new plans with adjusted parameters
-- **Progress Tracking**: Guidelines for monitoring fitness progress
-- **Modification Tips**: Suggestions for adapting plans over time
+
 
 ## 📁 Project Structure
 
